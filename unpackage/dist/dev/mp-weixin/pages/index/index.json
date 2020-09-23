@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "v-header": "/components/vHeader",
+    "v-video": "/components/vVideo",
+    "v-sider": "/components/vSider"
+  }
+}
